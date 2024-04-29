@@ -1,0 +1,16 @@
+{
+  "null_value": null,
+  "boolean_value": true,
+  "integer_value": 42,
+  "float_value": 3.14,
+  "string_value": "Hello, JSON!",
+  "array_value": [1, "two", 3.0, true, null],
+  "object_value": {
+    "nested_string": "Nested",
+    "nested_int": 100,
+    "nested_array": [1, 2, 3],
+    "nested_object": {
+      "inner_key": "Inner Value"
+    }
+  }
+}
